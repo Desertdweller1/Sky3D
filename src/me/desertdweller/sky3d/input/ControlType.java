@@ -1,0 +1,33 @@
+package me.desertdweller.sky3d.input;
+
+public enum ControlType {
+	A,
+	B,
+	C,
+	D,
+	E,
+	F,
+	G,
+	H,
+	I,
+	J,
+	K,
+	L,
+	M,
+	N,
+	O,
+	P,
+	Q,
+	R,
+	S,
+	T,
+	U,
+	V,
+	W,
+	X,
+	Y,
+	Z,
+	MOUSE_1,
+	LEFT_SHIFT,
+	LEFT_CONTROL
+}
